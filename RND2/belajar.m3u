@@ -1,7 +1,8 @@
 #EXTM3U
 
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstreamaddon=inputstream.adaptive 
+#EXTHTTP:{"User-agent":"Mozilla/5.0 (SMART-TV; LINUX; Tizen 6.0)"} 
+#KODIPROP:inputstream.adaptive.manifest_type=dash 
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://dream-key.bubulopdudu.workers.dev/ria
 #EXTINF:-1 tvg-name="RIA HD" group-logo="https://da.gd/starlogo" tvg-logo="https://da.gd/ffria" group-title="MALAYSIA",Astro Ria
