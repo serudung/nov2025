@@ -259,7 +259,7 @@ MOVIES
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"wyGv4WibB9W35VvQJcSDzg", "kid":"wkp4EdmrRrSLdGoOfiaSEA" } ], "type":"temporary" }
-#EXTINF:-1  tvg-id="AXN" tvg-logo="https://blogger.googleusercontent.com/img/a/AVvXsEgrzNOAUV3LKqcFrWLfg7ABUNqVdBMlA8Ymi4P3HnuGoPjOEJUSpyXDVy9Sj4tfFmUeDQTsVCrJzz0e9P5KpsEpJ6umaUyGu2WVDNK_gs8cus4e_PJVmDtz2XD4ocl2e_8k2MCnjwcOxcF2uh-nwmTQeAttqk3ZG1a6xpvFwxM4GHorMbQRk8s5lvfI5KW2" tvg-name="AXN HD" group-title="⭐ MOVIES" group-logo="https://da.gd/starlogo",701 AXN
+#EXTINF:-1  tvg-id="AXN" tvg-logo="https://blogger.googleusercontent.com/img/a/AVvXsEgrzNOAUV3LKqcFrWLfg7ABUNqVdBMlA8Ymi4P3HnuGoPjOEJUSpyXDVy9Sj4tfFmUeDQTsVCrJzz0e9P5KpsEpJ6umaUyGu2WVDNK_gs8cus4e_PJVmDtz2XD4ocl2e_8k2MCnjwcOxcF2uh-nwmTQeAttqk3ZG1a6xpvFwxM4GHorMbQRk8s5lvfI5KW2" tvg-name="AXN HD" group-title="⭐ MOVIES" group-logo="https://i.ibb.co/m5M5X0gN/Chat-GPT-Image-Nov-17-2025-01-54-10-AM-removebg-preview-removebg-preview.png",701 AXN
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36
 https://linearjitp-playback.astro.com.my/dash-wv/linear/2303/default_ott.mpd
 
