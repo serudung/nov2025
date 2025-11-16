@@ -1,10 +1,10 @@
-#EXTM3U billed-msg="Aktif 1 Tahun"
-
 #EXTM3U
-#EXTINF:-1 tvg-name="RIA HD" group-title="MALAYSIA",Astro Ria
+
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://dream-key.bubulopdudu.workers.dev/ria
-https://linears2-playback.astro.com.my/vsg/...../default_primary.mpd
+#EXTINF:-1 tvg-name="RIA HD" group-logo="https://da.gd/starlogo" tvg-logo="https://da.gd/ffria" group-title="MALAYSIA",Astro Ria
+https://linears2-playback.astro.com.my/vsg/41t-TXSnexA-mG4G3cEivBPrulTY2hiPKrqg9ZOI209Gs=7-VU/dash-wv/jitp-linearwm/1004/default_primary.mpd
+
 
