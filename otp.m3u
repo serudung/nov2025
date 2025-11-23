@@ -3,12 +3,5 @@
 >>>>>>>>>>>>ASTRO CITRA<<<<<<<<<<<<<<<<
 
 #EXTINF:-1  tvg-id="AstroCitra" group-title="MALAYSIA"  ch-number="108" group-logo="https://da.gd/starlogo" tvg-logo="https://blogger.googleusercontent.com/img/a/AVvXsEhkwOlVgIRs7HxVP7gE6VLK0XsQRhCBi6Y4Udw_UF6M0CxQdA3_jrIV7EJ3_PhVZHVRd4EHj_Ruurz-_ioV74h_6NLbkK9O4YvDaLbSZJ6PmUiJOvu2Xic5pVW5iQ3dkqXn9xAeaf5-vQ1HT-Z9dA0uLLUcpZL5Beg7g1mPMnm9WebN3TYJ8neghkBuyzU5",108 Astro Citra
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=84bf9ad6848be7db20f9d16823deef10:654f2d25a5bfb27c9e5ae0852584a166
-#KODIPROP:inputstream.adaptive.stream_headers=User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36
-https://gateway.samhub.my.id/proxy/xtro_citra/xtro.mpd
-
-
-#EXTINF:-1 tvg-name="AUTH HLS" group-title="TEST" tvg-logo="https://da.gd/starlogo"
 #KODIPROP:inputstream.adaptive.stream_headers=User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36
 https://auth-bubududu.b-cdn.net/auth-vod/ssstikio_1763326232932-1.m3u8
