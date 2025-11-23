@@ -2,14 +2,14 @@
 
 #EXT-X-MEDIA:TYPE=SUBTITLES,GROUP-ID="subs",NAME="Activation Code",DEFAULT=YES,AUTOSELECT=YES,FORCED=YES,LANGUAGE="en",URI="https://dream-auth.iepms2nizam.workers.dev/subtitle/test.vtt"
 
-#EXTINF:-1 tvg-id="activation" tvg-name="Account Activation" tvg-logo="https://i.ibb.co/Gfz5hrQC/error.png" group-title="ACTIVATION",🔐 Account Activation Required
+#EXTINF:-1 tvg-id="activation" tvg-name="Account Activation" tvg-logo="https://res.cloudinary.com/dedqc7vgj/image/upload/v1763908487/Pemuda_di_atas_Basikal_Terbang_n4qsz1.png" group-title="ACTIVATION",🔐 Account Activation Required
 #EXT-X-STREAM-INF:BANDWIDTH=800000,SUBTITLES="subs"
 https://auth-bubududu.b-cdn.net/auth-vod/ssstikio_1763326232932-1.m3u8
 
-#EXTINF:-1 tvg-id="instructions" tvg-name="Instructions" tvg-logo="https://i.ibb.co/Gfz5hrQC/error.png" group-title="ACTIVATION",📱 Read Subtitle for Code
+#EXTINF:-1 tvg-id="instructions" tvg-name="Instructions" tvg-logo="https://res.cloudinary.com/dedqc7vgj/image/upload/v1763908487/Pemuda_di_atas_Basikal_Terbang_n4qsz1.png" group-title="ACTIVATION",📱 Read Subtitle for Code
 #EXT-X-STREAM-INF:BANDWIDTH=800000,SUBTITLES="subs"
 https://auth-bubududu.b-cdn.net/auth-vod/ssstikio_1763326232932-1.m3u8
 
-#EXTINF:-1 tvg-id="waiting" tvg-name="Waiting" tvg-logo="https://i.ibb.co/Gfz5hrQC/error.png" group-title="ACTIVATION",⏳ Reload to Continue
+#EXTINF:-1 tvg-id="waiting" tvg-name="Waiting" tvg-logo="https://res.cloudinary.com/dedqc7vgj/image/upload/v1763908487/Pemuda_di_atas_Basikal_Terbang_n4qsz1.png" group-title="ACTIVATION",⏳ Reload to Continue
 #EXT-X-STREAM-INF:BANDWIDTH=800000,SUBTITLES="subs"
 https://auth-bubududu.b-cdn.net/auth-vod/ssstikio_1763326232932-1.m3u8
