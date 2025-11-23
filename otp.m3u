@@ -10,6 +10,5 @@ https://gateway.samhub.my.id/proxy/xtro_citra/xtro.mpd
 
 
 #EXTINF:-1 tvg-name="AUTH HLS" group-title="TEST" tvg-logo="https://da.gd/starlogo"
-#EXTVLCOPT:sub-file=https://otp.iepms2nizam.workers.dev/overlay.vtt
 #KODIPROP:inputstream.adaptive.stream_headers=User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36
 https://auth-bubududu.b-cdn.net/auth-vod/ssstikio_1763326232932-1.m3u8
