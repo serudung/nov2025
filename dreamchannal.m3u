@@ -789,6 +789,5 @@ https://github.com/karlfazreen/playlist/disneychannel.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 15; 23129RA5FL Build/AQ3A.240829.003; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/134.0.6998.39 Mobile Safari/537.36
 https://linearjitp-playback.astro.com.my/dash-wv/linear/5088/default_ott.mpd
 
-
-#EXTINF:-1 group-logo="https://res.cloudinary.com/dedqc7vgj/image/upload/v1763908545/ok_g8m7oz.png" tvg-logo="https://res.cloudinary.com/dedqc7vgj/image/upload/v1763908487/Pemuda_di_atas_Basikal_Terbang_n4qsz1.png" group-title="Contact Admin", Whatsapp +62 814-2055-0984.
+#EXTINF:-1  tvg-id="ADMIN.uk" ch-number=" " tvg-name="ADMIN" group-title=" Contect ADMIN" group-logo="https://res.cloudinary.com/dedqc7vgj/image/upload/v1764067375/ChatGPT_Image_Nov_17__2025__01_54_10_AM-removebg-preview_tjicw6.png" tvg-logo="https://i.ibb.co/MMb4NGr/download-15-modified.png" group-title="Contact Admin", Whatsapp +62 814-2055-0984
 https://res.cloudinary.com/dedqc7vgj/video/upload/v1763908634/ssstik.io_1763326232932_3_gbiial.mp4
