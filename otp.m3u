@@ -2,12 +2,10 @@
 
 #EXTM3U url-tvg="https://mokm32.github.io/epg-astro/epg.xml,https://raw.githubusercontent.com/azimabid00/epg/main/unifi_epg.xml" refresh="1440" max-conn="4" refresh="24" vod_library="https://mokm32.github.io/vod-top-20/,https://mokm32.github.io/vodupdatenew/,https://mokm32.github.io/vod-aseanmovies/,https://mokm32.github.io/new/"
 
->>>>>>>>>>>>ASTRO CITRA<<<<<<<<<<<<<<<<
-
 #EXTM3U
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"j3qda8Th8qO1x9jp8KGyww==","kid":"b8Pwnc8PTpup0AgstphKvA=="}],"type":"temporary"}
-#EXTINF:-1 tvg-id="" tvg-name="My Encrypted Video" tvg-logo="" group-title="Encrypted Videos",My Encrypted Video
+#EXTINF:-1,My Encrypted Video
 https://auth-bubududu.b-cdn.net/manifest.mpd
