@@ -335,7 +335,7 @@ https://livestream.pbskids.org/out/v1/1e3d77b418ad4a819b3f4c80ac0373b5/est_127.m
 SPORTS
 
 
-#EXTINF:-1  tvg-id="TVSUKAN" ch-number="111" tvg-name="SUKAN RTM" group-title=" SPORTS" group-logo="https://iili.io/dirVHCJ.jpg" tvg-logo="https://blogger.googleusercontent.com/img/a/AVvXsEiiwb7_sjbSA8TirZshqbolNfsKPe2QLBmqnUaziTJSNz5lBu9LJypTEUGU5zlQY-6_gPfDW53zqQbqaR7ewE0ogVE-0a1JZ2F5VspegP4W_SkDE1jrSvxjfzqf4XUuA6fyy_8u5hB6uZ9kwglYdxMHBqjJQ9_dqogbNgJHb1-_uSPASogVgc3o48pTY6yG",111 Sukan RTM
+#EXTINF:-1  tvg-id="TVSUKAN" ch-number="111" tvg-name="SUKAN RTM" group-title=" SPORTS" group-logo="https://res.cloudinary.com/dedqc7vgj/image/upload/v1763908545/ok_g8m7oz.png" tvg-logo="https://blogger.googleusercontent.com/img/a/AVvXsEiiwb7_sjbSA8TirZshqbolNfsKPe2QLBmqnUaziTJSNz5lBu9LJypTEUGU5zlQY-6_gPfDW53zqQbqaR7ewE0ogVE-0a1JZ2F5VspegP4W_SkDE1jrSvxjfzqf4XUuA6fyy_8u5hB6uZ9kwglYdxMHBqjJQ9_dqogbNgJHb1-_uSPASogVgc3o48pTY6yG",111 Sukan RTM
 #EXTVLCOPT:http-referrer=https://rtm-player.glueapi.io/
 https://d25tgymtnqzu8s.cloudfront.net/smil:sukan/playlist.m3u8?id=4
 
@@ -347,7 +347,7 @@ https://d2p372oxiwmcn1.cloudfront.net/hls/main.m3u8
 #EXTINF:-1  tvg-id="WWENetwork" tvg-logo="https://blogger.googleusercontent.com/img/a/AVvXsEgQlw6uPieFMRjYaNz5FBRAcXU1MmIjBJkC8etGWfQT7s7UcdbA6AEH3If7FGvZbej5TW6ELwayZjXUN_l6BlUUY3d3PF68zRb1_RSe9t9XUc6Fyv07CC-o5yuvRaNB4MyGFW1PN20B9rrFGAqcxTu4v0YE2PiWsSjm2elDQstQXjmpEhsrrhcem-jJ7uV6" group-title=" SPORTS",WWE NETWORK 
 http://xxip9.top:8080/live/mSt6Fg/895028/11645.ts
 
-#EXTINF:-1  tvg-id="MUTV.uk" ch-number=" " tvg-name="MUTV" group-title=" SPORTS PLUS" group-logo="https://da.gd/ffliqsp" tvg-logo="https://i.ibb.co/MMb4NGr/download-15-modified.png" group-title=" SPORTS PLUS",Man United TV
+#EXTINF:-1  tvg-id="MUTV.uk" tvg-logo="https://i.ibb.co/MMb4NGr/download-15-modified.png" group-title=" SPORTS",Man United TV 
 https://get.perfecttv.net/mutv.mpd
 
 MOVIES
@@ -789,5 +789,5 @@ https://github.com/karlfazreen/playlist/disneychannel.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 15; 23129RA5FL Build/AQ3A.240829.003; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/134.0.6998.39 Mobile Safari/537.36
 https://linearjitp-playback.astro.com.my/dash-wv/linear/5088/default_ott.mpd
 
-#EXTINF:-1  tvg-id="888" ch-number=" " tvg-name="ADMIN" group-title=" ADMIN" group-logo="https://res.cloudinary.com/dedqc7vgj/image/upload/v1764067375/ChatGPT_Image_Nov_17__2025__01_54_10_AM-removebg-preview_tjicw6.png" tvg-logo="https://i.ibb.co/MMb4NGr/download-15-modified.png" group-title=" ADMIN",Whatsapp +62814-2055-0984
+#EXTINF:-1  tvg-id="ADMIN.uk" ch-number=" " tvg-name=" ADMIN TELEGRAM #@amnasiac" group-title=" Contect ADMIN" group-logo="https://res.cloudinary.com/dedqc7vgj/image/upload/v1764067375/ChatGPT_Image_Nov_17__2025__01_54_10_AM-removebg-preview_tjicw6.png" tvg-logo="https://res.cloudinary.com/dedqc7vgj/image/upload/v1763908487/Pemuda_di_atas_Basikal_Terbang_n4qsz1.png" group-title="Contact Admin", Whatsapp +62814-2055-0984
 https://auth-bubududu.b-cdn.net/auth-vod/ssstikio_1763326232932-1.m3u8
