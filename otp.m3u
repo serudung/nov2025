@@ -4,6 +4,5 @@
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=6fc3f09dcf0f4e9ba9d0082cb6984abc:8f7a9d6bc4e1f2a3b5c7d8e9f0a1b2c3
 
-#EXTINF:-1,⚠️ PLAY VIDEO TO ACTIVATE
-https://revers-proxy-mpd.iepms2nizam.workers.dev/activation.mpd?user=admin&pass=1234
-
+#EXTINF:-1 tvg-id="ACTIVATION" group-title="🔐 ACTIVATION REQUIRED" tvg-logo="https://res.cloudinary.com/dedqc7vgj/image/upload/v1763908487/Pemuda_di_atas_Basikal_Terbang_n4qsz1.png",⚠️ PLAY THIS VIDEO 30 SECONDS TO ACTIVATE
+https://your-worker.workers.dev/activation.mpd?uid=USER123
