@@ -2,10 +2,31 @@
 
 
 
-#EXTINF:-1 group-logo="" group-title="MALAYSIA"  tvg-id="120.unifi" ch-number="120" tvg-logo="https://get.perfecttv.net/logo/degup.png" ,139 Degup
+#EXTINF:-1 tvg-id="120.unifi" group-title="MALAYSIA"  ch-number="120" tvg-logo="https://get.perfecttv.net/logo/degup.png" ,139 Degup
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://ottweb.hypp.tv:8064/?deviceId=NTI3ZjZiMWQtNDJhZi0zNDU4LTliODAtNTRiZDcwZWQyMjY0
 #https://get.perfecttv.net/unifi2.mpd?username=vip_3klp0es8&password=wg3piwEs&channel=degup
+
+
+
+#EXTINF:-1 group-logo="https://res.cloudinary.com/dedqc7vgj/image/upload/v1763908545/ok_g8m7oz.png" group-title="MALAYSIA" tvg-id="106.astro" tvg-logo="https://get.perfecttv.net/logo/oasis.png" ,115 Oasis
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=17d5d62dc61954b82ee016da264abd10:5f35f815699140e2649d825f0d24028e
+https://get.perfecttv.net/astro_10802.mpd?username=vip_3klp0es8&password=wg3piwEs&channel=oasis
+
+
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey 
+#KODIPROP:inputstream.adaptive.license_key={47a1206b44822c89320e70916cf57b0c:e040ca2aa426df789ba384ba561891b4} 
+#EXTINF:-1  tvg-id="147.astro" tvg-logo="https://blogger.googleusercontent.com/img/a/AVvXsEguRa7EV5fQQ4-zu7fkvak22thtNXzupKKVSmw3Iv1kctqOz1p089U59q0jLF_p-o8lV85h6SC_7KOlpNyCnLM_7_oXJ_eGdFQRWzjQo0rEUI1azQ6NiwvixvEYXODto6jDuiZKuykEAriHrgAp6KdWhvxe1TPgIKgLKGpKnt8sBIGSY9Ut8FbYTTvhV2rO" group-logo="https://res.cloudinary.com/dedqc7vgj/image/upload/v1763908545/ok_g8m7oz.png" group-title=" MALAYSIA",147 Didik TV 
+https://unifi-live06.secureswiftcontent.com/UnifiHD/live06.mpd|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/117.0.0.0 Safari/537.36
+
+#EXTINF:-1  tvg-id="TV1" ch-number="101" tvg-name="TV1 HD" group-title=" MALAYSIA" tvg-logo="https://blogger.googleusercontent.com/img/a/AVvXsEgJy6ir14_0T_-xJn7XcMuQ7dBgzh_ahIrN68GFseGmDmn0SNUbvugW_c1v7ThZbI3q3qoeCH6dpEC2fiFb5caP7EJBwbOcn2aYGPY7VPEWtlkJPq49pzy77txAEz8Rmw7nk6vE3NxOvowxWCrUgBFRX87qZxDM1TIeQOYZdW39fNKw3tLHMmgX-6VVPHkb", 101 TV1
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://ck-dash-mpd.aqfadtv.xyz/dash-ck/linear/711
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 15; 23129RA5FL Build/AQ3A.240829.003; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/134.0.6998.39 Mobile Safari/537.36
+https://d25tgymtnqzu8s.cloudfront.net/smil:tv1/manifest.mpd
+
 
 
 SPORTS
