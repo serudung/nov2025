@@ -1,0 +1,54 @@
+#EXTM3U
+
+
+
+#EXTINF:-1 group-logo="" group-title="MALAYSIA"  tvg-id="120.unifi" ch-number="120" tvg-logo="https://get.perfecttv.net/logo/degup.png" ,139 Degup
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://ottweb.hypp.tv:8064/?deviceId=NTI3ZjZiMWQtNDJhZi0zNDU4LTliODAtNTRiZDcwZWQyMjY0
+#https://get.perfecttv.net/unifi2.mpd?username=vip_3klp0es8&password=wg3piwEs&channel=degup
+
+
+SPORTS
+
+
+#EXTINF:-1  tvg-id="TVSUKAN" ch-number="111" tvg-name="SUKAN RTM" group-title=" SPORTS" group-logo="https://res.cloudinary.com/dedqc7vgj/image/upload/v1763908545/ok_g8m7oz.png" tvg-logo="https://blogger.googleusercontent.com/img/a/AVvXsEiiwb7_sjbSA8TirZshqbolNfsKPe2QLBmqnUaziTJSNz5lBu9LJypTEUGU5zlQY-6_gPfDW53zqQbqaR7ewE0ogVE-0a1JZ2F5VspegP4W_SkDE1jrSvxjfzqf4XUuA6fyy_8u5hB6uZ9kwglYdxMHBqjJQ9_dqogbNgJHb1-_uSPASogVgc3o48pTY6yG",111 Sukan RTM
+#EXTVLCOPT:http-referrer=https://rtm-player.glueapi.io/
+https://d25tgymtnqzu8s.cloudfront.net/smil:sukan/playlist.m3u8?id=4
+
+#EXTINF:-1  tvg-id="AstroArena2" tvg-logo="https://blogger.googleusercontent.com/img/a/AVvXsEhV7G4GMhzQ9gPUoYrtJP7UpaA8zz8PItyMlqt5yWb2kD2EdZUJLaWprds-ht2Pm9cX4m0FB-AfQeE9-qTw7o4EYuLcpg8F7YYgkvhz6JSTU3YtaEFU0ACdoqjIg7fLvknmXIECWNCtG3ksYHCbOc92bxkwrDdFmrgVAWg4-A1JyeRtIkYIeQEqvGuZI9Ec" group-title="SPORTS",802 Astro Arena 2 HD
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=ead0335d60401225727a6d531e9c2710:1ee3b252227c5c2ec9378c833d2e14ff
+#KODIPROP:inputstream.adaptive.stream_headers=User-Agent=Mozilla/5.0 (Linux; Android 15; 23129RA5FL Build/AQ3A.240829.003; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/134.0.6998.39 Mobile Safari/537.36
+https://linearjitp-playback.astro.com.my/dash-wv/linear/5057/default_primary.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=cbb673fb120882354735ed57eeb05b4c:fe003f7aeec40eb65d20b14edfda2a86
+#EXTINF:0 tvg-id="701" group-logo="https://res.cloudinary.com/dedqc7vgj/image/upload/v1763908545/ok_g8m7oz.png" group-title=" SPORTS" tvg-name="unifi Sports 1" tvg-logo="https://blogger.googleusercontent.com/img/a/AVvXsEgYUm0CZJKTfB-EGZrEhcru6C8GPh6BCQ4mJjbBCSKBdLmtlgQ6RWfZ5-RJXObWVVT_8vOq4QN84HsffEknkWwWVg6AvWWrjdkOp-mcl29nb8qVnlRq-4bvn9nvhY8d8Rgf6haGTB9iciBjW7jprlqhtzdshEtffqWZzje56cKCkEfnoQRne9uqbbeKv3WH",Unifi Sports 1 HD
+https://unifi-live07.secureswiftcontent.com/UnifiHD/live11.mpd
+
+#EXTINF:-1 tvg-id="801.astro" ch-number="801" tvg-name="Astro Arena HD" group-title=" SPORTS" ch-number="801" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/0d/Astro_Arena_1_%282024%29.png",ARENA HD
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"Z3aYWTizMhZLl7gf5WajSg", "kid":"79pkfa1yNWO2Jb6MBe5hEA" } ], "type":"temporary" }
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 11; Philips Google TV TA7 Build/RTM5.220609.199; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/138.0.7204.179 Mobile Safari/537.36
+https://linearjitp-playback.astro.com.my/dash-wv/linear/2604/default_ott.mpd
+
+#EXTINF:-1 tvg-id="802.astro" ch-number="802" tvg-name="Astro Arena 2 HD" group-title=" SPORTS" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/4f/Astro_Arena_2_%282024%29.png",ARENA 2 HD
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+##KODIPROP:inputstream.adaptive.license_key=03768503343f451faa1b1f1f3d33b463:29e3bf0c0910c77bf0fcf8b30ebcd256
+#KODIPROP:inputstream.adaptive.license_key=ead0335d60401225727a6d531e9c2710:1ee3b252227c5c2ec9378c833d2e14ff
+#https://get.perfecttv.net/1080.mpd?username=vip_sgnep6z9&password=dBlA1nxq&channel=arena2fhd|authorization=Bearer
+https://get.perfecttv.net/dash2.mpd?username=vip_sgnep6z9&password=dBlA1nxq&channel=arena2fhd|user-agent=Mozilla/5.0 (Linux; Android 14; SMRV076G Build/UKQ1.240805.002; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/134.0.6950.85 Mobile Safari/537.36
+
+
+#EXTINF:-1 tvg-id="ImpactWrestling.us" tvg-logo="https://blogger.googleusercontent.com/img/a/AVvXsEgumBHemOugefVhpr_2isTv_gF7Z83HJAwCg8U78ILtyEJVE_cC7TtS0wjLmMQtLwb48OwBGOwgJ5a_uPC47xUca0VHEHlMLf-kpjMI4_wr2UkOh4-TzEo7xReJeqmEOlHOVS5HSqVoMTMJOvvL_sCFuV_cD3ejnEOktdKylAAoJS7zDqWHOnqCKmx5kNN2" group-title=" SPORTS",IMPACT! Wrestling 
+https://d2p372oxiwmcn1.cloudfront.net/hls/main.m3u8
+
+
+#EXTINF:-1  tvg-id="WWENetwork" tvg-logo="https://blogger.googleusercontent.com/img/a/AVvXsEgQlw6uPieFMRjYaNz5FBRAcXU1MmIjBJkC8etGWfQT7s7UcdbA6AEH3If7FGvZbej5TW6ELwayZjXUN_l6BlUUY3d3PF68zRb1_RSe9t9XUc6Fyv07CC-o5yuvRaNB4MyGFW1PN20B9rrFGAqcxTu4v0YE2PiWsSjm2elDQstQXjmpEhsrrhcem-jJ7uV6" group-title=" SPORTS",WWE NETWORK 
+http://xxip9.top:8080/live/mSt6Fg/895028/11645.ts
+
+#EXTINF:-1  tvg-id="MUTV.uk" tvg-logo="https://i.ibb.co/MMb4NGr/download-15-modified.png" group-title=" SPORTS",Man United TV 
+https://get.perfecttv.net/mutv.mpd
+
